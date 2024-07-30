@@ -1,5 +1,6 @@
 ## Asteroids clone
 
+This is a clone of the classic arcade game asteroids.
 
 ### Requirements
 
